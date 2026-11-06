@@ -1,0 +1,15 @@
+kuraikura 0.6.0
+
+Original handwriting and art direction: daafffodil.
+The author confirmed authorship of the 15 handwritten samples:
+旧 衣 回 收 一 下 总 有 惊 喜 秋 日 的 时 刻
+
+AI-assisted vector adaptation, character extension and font engineering: the kuraikura project, 2026.
+Original handwriting authorship and vector-processing provenance are separate records.
+Historical vector records retain the Arphic Public License. This font release, including its added glyphs and alternatives, is distributed under that license. See LICENSE.txt.
+This release corrects the handwriting attribution, names the compiled font kuraikura, and packages the existing 2500 Hanzi without changing their outlines.
+
+Font assets: Arphic Public License.
+Independently authored layout/editor code and documentation: MIT, see licenses/MIT.txt.
+Project: https://github.com/daafffodil/kuraikura
+Workflow: https://github.com/daafffodil/handwriting-to-font

@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'kuraikura';
+  src: url('kuraikura-Regular.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+.kuraikura { font-family: 'kuraikura', sans-serif; }
+/* Optional alternate forms. This does not randomize layout. */
+.kuraikura-alt1 { font-feature-settings: 'ss01' 1; }
+.kuraikura-alt2 { font-feature-settings: 'ss02' 1; }
