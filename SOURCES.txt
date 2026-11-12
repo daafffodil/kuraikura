@@ -1,4 +1,4 @@
-kuraikura 0.6.0
+kuraikura 0.7.0
 
 Original handwriting and art direction: daafffodil.
 The author confirmed authorship of the 15 handwritten samples:
@@ -7,7 +7,7 @@ The author confirmed authorship of the 15 handwritten samples:
 AI-assisted vector adaptation, character extension and font engineering: the kuraikura project, 2026.
 Original handwriting authorship and vector-processing provenance are separate records.
 Historical vector records retain the Arphic Public License. This font release, including its added glyphs and alternatives, is distributed under that license. See LICENSE.txt.
-This release corrects the handwriting attribution, names the compiled font kuraikura, and packages the existing 2500 Hanzi without changing their outlines.
+This release corrects the handwriting attribution, names the compiled font kuraikura, and adds 500 Hanzi to reach 3000, preserving all previously released outlines.
 
 Font assets: Arphic Public License.
 Independently authored layout/editor code and documentation: MIT, see licenses/MIT.txt.

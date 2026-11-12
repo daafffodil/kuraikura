@@ -10,7 +10,7 @@ A Chinese handwriting font developed from 15 handwritten samples. Thin rounded s
 
 ## Coverage
 
-Version 0.6.0 contains **2,500 Hanzi, with three forms per character**, plus Latin letters, digits and common punctuation. [Full character list](CHARACTERS.txt)
+Version 0.7.0 contains **3,000 Hanzi, with three forms per character**, plus Latin letters, digits and common punctuation. [Full character list](CHARACTERS.txt)
 
 The goal is approximately 7,000 Hanzi through reviewed updates. The current set is incomplete and contains no kana. A Japanese translation of the interface does not mean full Japanese coverage or region-specific Japanese glyph forms.
 
